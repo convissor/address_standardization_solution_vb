@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AddressStandardizationSolution", "AddressStandardizationSolution.vbproj", "{78C5B5CE-F198-4E0C-AF17-00A58BF3E432}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AddressStandardizationSolutionTest", "AddressStandardizationSolutionTest\AddressStandardizationSolutionTest.vbproj", "{575264D1-5100-4E04-988A-72F4787B6C48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3D917EA-7862-468B-B468-B9A3C48F1F2B}"
+	ProjectSection(SolutionItems) = preProject
+		AddressStandardizationSolution.vsmdi = AddressStandardizationSolution.vsmdi
+		AddressStandardizationSolution1.vsmdi = AddressStandardizationSolution1.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = AddressStandardizationSolution1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C5B5CE-F198-4E0C-AF17-00A58BF3E432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C5B5CE-F198-4E0C-AF17-00A58BF3E432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C5B5CE-F198-4E0C-AF17-00A58BF3E432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C5B5CE-F198-4E0C-AF17-00A58BF3E432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575264D1-5100-4E04-988A-72F4787B6C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575264D1-5100-4E04-988A-72F4787B6C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575264D1-5100-4E04-988A-72F4787B6C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575264D1-5100-4E04-988A-72F4787B6C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
